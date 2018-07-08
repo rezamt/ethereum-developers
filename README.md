@@ -46,6 +46,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Remix-](https://remix.ethereum.org/) Web IDE with built in static analysis, test blockchain VM.
 
+* [Pragma-](https://www.withpragma.com/) Web IDE for Ethereum (needs Metamask)
+
 * [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter)[-](https://atom.io/packages/etheratom) Atom package for Solidity linting
 
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
